@@ -96,11 +96,11 @@ def split_ch_en_Translate(text):
 
 
 conn= pymysql.connect(
-        host='databda.ddns.net',
+        host='dataxxx.xxxx.xxx',
         port = 3306,
         user='root',
-        passwd='iiibda',
-        db ='htc',
+        passwd='xxxxxx',
+        db ='xxx',
         charset='utf8',
         )     
 
